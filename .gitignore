@@ -1,0 +1,14 @@
+# Local database and runtime data
+gcash.db
+*.db
+*.db-journal
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
